@@ -23,3 +23,5 @@ class powerfunct{
 
 	}
 }
+
+//runs in theta log n time --> recurrence relation T(n) = T(n/2)+c
