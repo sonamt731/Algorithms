@@ -25,3 +25,8 @@ DFS-visit(G,u){
 	time+=1
 	u.f= time
 }
+
+//white path theorem 
+
+//3 cases in terms of descendant
+
